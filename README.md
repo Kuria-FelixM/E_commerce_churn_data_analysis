@@ -1,6 +1,6 @@
 # E_commerce_churn_data_analysis
 
- In this project we will analyze E-commerce customer churn rate. Customer churn rate shows how many existing customers are not using products-services or switch to business competitors.
+ In this project we will analyze E-commerce Customer Churn rate. Customer churn rate shows how many existing customers are not using products-services or switch to business competitors.
 
  # Step 1: Import Dataset 
  # step 2:Data Reading
